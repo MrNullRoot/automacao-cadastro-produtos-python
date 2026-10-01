@@ -31,7 +31,7 @@ Python, pandas, pyautogui, HTML, CSS e JavaScript.
 1. Instale as dependências: `pip install -r requirements.txt`
 2. No VS Code, abra o `index.html` com a extensão **Live Server** (porta 5500)
 3. Execute `python script.py` e não mexa no mouse nem no teclado durante a automação
-4. > As coordenadas de clique no `script.py` dependem da resolução e da posição da janela do navegador. Se não baterem na sua tela, rode `python auxiliar.py`, posicione o mouse sobre o campo desejado em até 5 segundos e use as coordenadas impressas no terminal.
+4. As coordenadas de clique no `script.py` dependem da resolução e da posição da janela do navegador. Se não baterem na sua tela, rode `python auxiliar.py`, posicione o mouse sobre o campo desejado em até 5 segundos e use as coordenadas impressas no terminal.
 
 ## Próximo passo
 
