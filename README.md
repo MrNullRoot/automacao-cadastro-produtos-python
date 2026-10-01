@@ -15,7 +15,7 @@ Python, pandas, pyautogui, HTML, CSS e JavaScript.
 ## Arquivos
 
 - `script.py` – script principal da automação
-- `auxiliar.py` – [escreva aqui, em uma frase, o que ele faz]
+- `auxiliar.py` – utilitário para descobrir as coordenadas do mouse na tela (usadas para posicionar os cliques da automação
 - `index.html` – formulário e tabela
 - `produtos.csv` – 8 produtos fictícios para teste
 - `requirements.txt` – dependências do projeto
